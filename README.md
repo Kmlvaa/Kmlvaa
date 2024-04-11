@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samira Kamilova</h1>
+<h1 align="center">Hi 👋, I'm Samira</h1>
 <h3 align="center">A passionate web developer from Azerbaijan</h3>
 <img align="right" alt="Koanashi" width="400" src="https://animesher.com/orig/0/1/19/198/animesher.com_spirited-away-movie-no-face-19869.gif"/>
 
