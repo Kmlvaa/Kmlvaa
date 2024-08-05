@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samiraak@code.edu.az**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **Whales have legs too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
