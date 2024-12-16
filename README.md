@@ -5,14 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlvaa&label=Profile%20views&color=0e75b6&style=flat" alt="kmlvaa" /> </p>
 
 - 🌱 I’m currently learning **React, C#**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **samiraak@code.edu.az**
-
-- ⚡ Fun fact **Whales have legs too**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
