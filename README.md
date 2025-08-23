@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlvaa&label=Profile%20views&color=0e75b6&style=flat" alt="kmlvaa" /> </p>
 
-- 🌱 I’m currently learning **React, C#**
+- 🌱 I’m currently learning **React**
 <p align="left">
 </p>
 
