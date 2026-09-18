@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Samira Kamilova and I'm a Junior Software Developer, from Azerbaijan.</h2>
+<h2 align="center">Hi 👋! My name is Samira and I'm a Junior Software Developer, from Azerbaijan.</h2>
 
 ###
 
